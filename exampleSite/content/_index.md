@@ -1,15 +1,16 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  title: "Experience spellsh: Integrate ChatGPT into Your Terminal"
+  button: "Install spellsh Now"
+  button_link: "https://getspellsh.com/install"
   image: "images/banner-app.png"
+
 
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -27,33 +28,27 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Spellsh Features"
+  title: "Enhancing Your Terminal <br> Experience"
+  description: "Introducing spellsh, the new way of interacting with your terminal. <br> With the help of AI, it understands your natural language commands and executes the appropriate shell commands."
   features_blocks:
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-terminal"
+    title: "Seamless Terminal Interaction"
+    content: "Type in 'spellsh' followed by your description, and it executes the correct command. Say goodbye to memorizing complex shell commands."
+  - icon: "las la-brain"
+    title: "AI-Powered"
+    content: "Leveraging the power of OpenAI's GPT-4, spellsh understands your language and provides accurate command execution."
+  - icon: "las la-rocket"
+    title: "Quick and Easy"
+    content: "Simply install spellsh as a terminal extension and begin a smoother coding journey. Enhance your productivity and efficiency."
+  - icon: "las la-sync-alt"
+    title: "Regular Updates"
+    content: "Stay updated with the latest features and improvements. We're continually working to enhance your spellsh experience."
 
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -65,55 +60,55 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+  - subtitle: "How to Use spellsh"
+    title: "Command Your Terminal with Ease"
+    description: "To list all files in your current directory, simply type 'spellsh \"list all files in the current directory\"'. spellsh interprets your command and executes 'ls -al' in the terminal. Forget about command syntax and focus on what you want to achieve."
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+  - subtitle: "Another Great Example"
+    title: "Get the Current Date Saved Instantly"
+    description: "If you want to save the current date in a temporary file, just command, 'spellsh \"write the current date to a tempfile\"'. spellsh will take care of the rest by executing 'date > /tmp/date.txt'. It's coding made simple and efficient."
     image: "images/features-02.png"
 
 
 # testimonials
 testimonials:   
   enable: true
-  subtitle: "Our Testimonials"
-  title: "Don't take our word for it"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "What Developers Say"
+  title: "See the spellsh Impact"
+  description: "Don't just take our word for it. See what developers who've integrated spellsh into their workflow have to say:"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Spellsh has revolutionized how I interact with my terminal. It's like having a powerful AI assistant right in my terminal."
+    name: "Alicia Smith"
+    designation: "Backend Developer"
     image: "images/user-img/05-i.jpg"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "With spellsh, I don't have to remember complex shell commands. I simply tell it what to do in my natural language."
+    name: "Tom Davis"
+    designation: "Full Stack Developer"
     image: "images/user-img/06-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Integrating spellsh into my terminal has improved my productivity and efficiency. It's a game-changer!"
+    name: "Peter Johnson"
+    designation: "DevOps Engineer"
     image: "images/user-img/07-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Spellsh's seamless interaction with the terminal is impressive. It's an innovative tool every developer should have."
+    name: "Emily Brown"
+    designation: "Software Engineer"
     image: "images/user-img/08-i.jpg"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/09-i.jpg"
+  - quote: "Spellsh makes coding enjoyable and less complex. It's like conversing with your terminal."
+    name: "Lucas Anderson"
+    designation: "Freelance Developer"
+    image: "images/user-img/05-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/10-i.jpg"
+  - quote: "Thanks to spellsh, I can focus more on solving problems and less on syntax. Highly recommended!"
+    name: "Jessica Williams"
+    designation: "Lead Developer"
+    image: "images/user-img/06-i.jpg"
 
 ---
